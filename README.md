@@ -11,7 +11,7 @@ By: Khalil Elkharbibi - Kura Labs
 
 ## Introduction
 
-This documentation guides you through edeploying a URL shortener application using Jenkins pipelines and Elastic Beanstalk. The aim is to offer a comprehensive and easy-to-follow guide for deploying the application.
+This documentation guides you through deploying a URL shortener application using Jenkins pipelines and Elastic Beanstalk. The aim is to offer a comprehensive and easy-to-follow guide for deploying the application.
 
 ## Overview
 
